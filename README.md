@@ -1,6 +1,7 @@
-# Movies-recommender-system_ML
+# 🎬 Movies-recommender-system_ML
 
-🎬 Movie Recommender System
+# Overview
+
 This project is a ** Movie Recommender System** built using Python, Pandas, and Streamlit. It utilizes two datasets — movies.csv and credits.csv — to suggest similar movies based on user input.
 
 🚀 Features
