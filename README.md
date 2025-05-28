@@ -22,4 +22,4 @@ Explore the Movie Recommender System yourself! Our app is deployed on Streamlit.
 
 Click the link below to get started: [🎬 Try recommend Movies](https://movies-recommender-system-usingml.streamlit.app/)
 
-here are the screenshots of Movies_Recommender_System
+# Here are the sample screenshots of Movies Recommender System
