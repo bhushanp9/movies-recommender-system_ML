@@ -21,10 +21,8 @@ Pickle
 Requests (for TMDB API)
 TMDB API (to fetch movie posters)
 
-# Try the app
+# Try the app [🎬 Try recommend Movies](https://movies-recommender-system-usingml.streamlit.app/)
 Explore the Movie Recommender System yourself! Our app is deployed on Streamlit. 
-
-# Click the link below to get started: [🎬 Try recommend Movies](https://movies-recommender-system-usingml.streamlit.app/)
 
 # Sample screenshots of Movies Recommender System
 
