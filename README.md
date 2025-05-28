@@ -12,7 +12,8 @@ Data cleaning and merging from TMDB movies and credits datasets
 Frontend UI built with Streamlit
 Poster image fetching using TMDB API
 PKL files (movies.pkl, similarity.pkl) for fast loading
-🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 Python 3.8+
 Pandas, NumPy, Scikit-learn
 Streamlit
@@ -23,7 +24,7 @@ TMDB API (to fetch movie posters)
 # Try the app
 Explore the Movie Recommender System yourself! Our app is deployed on Streamlit. 
 
-Click the link below to get started: [🎬 Try recommend Movies](https://movies-recommender-system-usingml.streamlit.app/)
+# Click the link below to get started: [🎬 Try recommend Movies](https://movies-recommender-system-usingml.streamlit.app/)
 
 # Sample screenshots of Movies Recommender System
 
