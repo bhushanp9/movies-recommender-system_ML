@@ -24,3 +24,9 @@ Click the link below to get started: [🎬 Try recommend Movies](https://movies-
 
 # Sample screenshots of Movies Recommender System
 
+![Image](https://github.com/user-attachments/assets/38791939-9f4c-4623-b458-98a842173727)
+
+![Image](https://github.com/user-attachments/assets/3d0614b0-7183-408c-9c7b-a61a505eeb0a)
+
+![Image](https://github.com/user-attachments/assets/507d99c9-82d4-4127-b58c-e72420d27d8e)
+
